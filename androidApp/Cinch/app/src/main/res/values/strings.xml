@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cinch</string>
+    <string name="stop_machine" />
+    <string name="machine_fixed" />
+    <string name="start_machine" />
+    <string name="machine_breakdown" />
+    <string name="material_out_of_stock" />
+    <string name="material_in_stock" />
+</resources>
